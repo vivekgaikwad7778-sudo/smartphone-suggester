@@ -1,13 +1,43 @@
-brand,model,price,ram,storage,battery,camera
-Realme,C83 5G,15999,6,128,7000,13
-OPPO,K14x 5G,16999,4,64,6500,50
-Xiaomi,Redmi Note 17 Pro,36999,8,256,5000,50
-Realme,GT 6T,24999,8,128,5500,50
-POCO,F6 5G,29999,8,256,5000,50
-OnePlus,Nord CE 5,24999,8,128,7100,50
-iQOO,13 5G,49999,12,256,6000,50
-Google,Pixel 8a,34999,8,128,4492,64
-Samsung,Galaxy S25 Ultra,129999,12,256,5000,200
-Apple,iPhone 16 Pro Max,159900,8,256,4685,48
-Samsung,Galaxy S26,84999,12,256,4300,50
-OnePlus,16,89990,12,256,5200,50
+model,brand,price,ram,storage,os
+Moto G45 5G,Motorola,10997,4,128,Android
+Realme C65 5G,Realme,11990,6,128,Android
+Infinix Smart 20,Infinix,12111,4,128,Android
+Realme P3x,Realme,12999,6,128,Android
+Lava Bold N4 Pro 5G,Lava,13999,6,128,Android
+Samsung Galaxy F16 5G,Samsung,13999,6,128,Android
+POCO M7 Pro,POCO,14999,6,128,Android
+iQOO Z11 Lite 5G,iQOO,15499,6,128,Android
+Redmi 15C 5G Prime Edition,Xiaomi,15999,8,128,Android
+Moto G37 Power,Motorola,16999,8,128,Android
+OPPO K14x 5G,OPPO,18999,8,256,Android
+Motorola Edge 60 Stylus,Motorola,20560,8,256,Android
+Redmi Note 15 Pro,Xiaomi,22000,8,128,Android
+Samsung Galaxy A36 5G,Samsung,25980,8,256,Android
+Samsung Galaxy F70 Pro 5G,Samsung,26288,8,256,Android
+OnePlus Nord CE 5,OnePlus,28000,8,256,Android
+Motorola Edge 70 Fusion,Motorola,29499,12,256,Android
+Realme P4 Pro 5G,Realme,30999,8,256,Android
+Realme GT Neo 7,Realme,32000,12,256,Android
+iQOO Z11 5G,iQOO,34999,12,256,Android
+Motorola Edge 70 Pro,Motorola,36999,12,256,Android
+Samsung Galaxy A56 5G,Samsung,38000,8,256,Android
+Google Pixel 10a,Google,39999,8,128,Android
+OnePlus Nord 6,OnePlus,42999,8,256,Android
+Samsung Galaxy S25 FE,Samsung,45999,12,256,Android
+Motorola Edge 70 Max,Motorola,51999,12,512,Android
+Xiaomi 17,Xiaomi,59999,12,256,Android
+OnePlus 13,OnePlus,69999,16,512,Android
+iPhone 16,Apple,79900,8,128,iOS
+Samsung Galaxy S25 Ultra,Samsung,84999,12,256,Android
+OPPO Find X10,OPPO,89900,12,256,Android
+Google Pixel 10 Pro,Google,109999,16,256,Android
+Samsung Galaxy Z Flip 8,Samsung,114999,12,256,Android
+Google Pixel 10 Pro XL,Google,115999,16,256,Android
+Apple iPhone Air,Apple,119900,8,256,iOS
+Xiaomi 17 Ultra,Xiaomi,129999,16,512,Android
+iPhone 17 Pro,Apple,134900,12,256,iOS
+vivo X300 Ultra,vivo,159999,16,512,Android
+Apple iPhone 18 Pro,Apple,164900,12,256,iOS
+Samsung Galaxy S26 Ultra,Samsung,169999,12,256,Android
+Samsung Galaxy Z Fold 8,Samsung,174999,16,512,Android
+Samsung Galaxy Z Fold 8 Ultra,Samsung,194999,16,512,Android

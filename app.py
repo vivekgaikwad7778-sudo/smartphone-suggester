@@ -137,11 +137,6 @@ elif sort_option == "Storage: High to Low":
 
 # --- MAIN CONTENT AREA ---
 
-# Top Search Bar
-search_query = st.text_input("🔎 Quick Search Model Name:", placeholder="e.g. Galaxy S25, iPhone...")
-if search_query and 'model' in filtered_df.columns:
-    filtered_df = filtered_df[filtered_df['model'].str.contains(search_query, case=False, na=False)]
-
 st.divider()
 
 # Dashboard Metrics
